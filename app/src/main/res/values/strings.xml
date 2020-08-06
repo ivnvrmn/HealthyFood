@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HealthyFood</string>
+    <string name="calories_description">Calories per serving</string>
+    <string name="product_action_button_text">More info</string>
+    <string name="info_title_protein">Protein</string>
+    <string name="info_title_cards">Carbs</string>
+    <string name="info_title_fat">Fat</string>
+</resources>
